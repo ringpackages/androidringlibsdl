@@ -18,6 +18,11 @@ aPackageInfo = [
 			:name = "gameengine",
 			:version = "1.0",
 			:providerusername = ""
+		],
+		[
+			:name = "ringzip",
+			:version = "1.0",
+			:providerusername = ""
 		]
 	],
 	:files = 	[
