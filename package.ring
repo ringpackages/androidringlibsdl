@@ -22,6 +22,7 @@ aPackageInfo = [
 	],
 	:files = 	[
 		"main.ring",
+		"setup.ring",
 		"README.md"
 	],
 	:ringfolderfiles = 	[
@@ -46,7 +47,7 @@ aPackageInfo = [
 
 	],
 	:run = "ring main.ring",
-	:setup = "",
+	:setup = "ring setup.ring",
 	:windowssetup = "",
 	:linuxsetup = "",
 	:macossetup = "",
