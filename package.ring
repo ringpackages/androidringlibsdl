@@ -57,5 +57,6 @@ aPackageInfo = [
 	:linuxsetup = "",
 	:macossetup = "",
 	:ubuntusetup = "",
-	:fedorasetup = ""
+	:fedorasetup = "",
+	:remove = "ring uninstall.ring"
 ]
